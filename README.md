@@ -1,9 +1,9 @@
 # Joanna Albizures
 ## I'm a UC Berkeley Student studying Media Studies with a minor in journalism ###
 
-  
-  
-  
+
+![Joannna](https://media-exp1.licdn.com/dms/image/C5603AQGAO848HCGp2g/profile-displayphoto-shrink_800_800/0/1655328651457?e=1664409600&v=beta&t=0wS0GPmjFIChNlAxoRMbsfa86gUnoMaCwFDk8U2aKMo)
+
 ##  **Skills**
   1. Google Sheets
       1. Pivot tables
