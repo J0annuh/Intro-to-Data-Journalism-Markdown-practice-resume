@@ -16,5 +16,5 @@
 ## Experience
 Employer | Job Description
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Haas School of Business _(2019-Present)_ | Work study aministrative student assistant to the operations team. Organized and split MBA candidate files. 
+UC Berkeley Foundation _(2021-Present)_ | Student assistant to the administrative & communications team. Relayed communication between campus leaders and 100 UC Berkeley trustees. 
